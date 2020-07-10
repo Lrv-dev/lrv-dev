@@ -2,6 +2,6 @@
 
 Find me around the web 🌎:
 - Learning in public on <a href="https://www.twitch.tv/lrv_dev">Twitch</a> 
-- Twitter Lrvdev
+- Twitter <a href="https://twitter.com/Lrvdev">Twitter</a>
 
 
