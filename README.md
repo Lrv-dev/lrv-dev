@@ -6,8 +6,6 @@ Find me around the web 🌎:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lrv-dev" alt="lrv-dev" /> </p>
 
-[![Lrv's github stats](https://github-readme-stats.vercel.app/api?username=Lrv-dev&theme=merko)](https://github.com/Lrv-dev/)
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lrv-dev&theme=merko" alt="https://github.com/Lrv-dev/" /> </p>
 
 
