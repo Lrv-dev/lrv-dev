@@ -8,4 +8,7 @@ Find me around the web 🌎:
 
 [![Lrv's github stats](https://github-readme-stats.vercel.app/api?username=Lrv-dev&theme=merko)](https://github.com/Lrv-dev/)
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lrv-dev&theme=merko" alt="https://github.com/Lrv-dev/" /> </p>
+
+
 
